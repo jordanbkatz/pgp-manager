@@ -1,0 +1,13 @@
+node_modules/
+dist/
+data/
+.env
+.env.*
+*.asc
+*.pgp
+*.gpg
+*.key
+*.pem
+*.log
+.DS_Store
+.qa/
